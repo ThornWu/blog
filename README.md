@@ -4,7 +4,8 @@
 目前正在龟速写作《V8 是怎么跑起来的》系列。
 
 ## V8 是怎么跑起来的
-- [V8 是怎么跑起来的 —— V8 中的对象表示](https://github.com/ThornWu/blog/issues/4)
+- [V8 是怎么跑起来的（引子） —— V8 中的对象表示](https://github.com/ThornWu/blog/issues/4)
+- [V8 是怎么跑起来的（1） —— V8 的 JavaScript 执行管道](https://github.com/ThornWu/blog/issues/5)
 
 ## 前端新知
 - [PWA一隅](https://github.com/ThornWu/blog/issues/1)
