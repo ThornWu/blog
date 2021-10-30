@@ -2,8 +2,8 @@
 汤圆同学的博客。（别人都有小星星了，我也想要555）
 
 ## V8 是怎么跑起来的
-- [V8 是怎么跑起来的（引子） —— V8 中的对象表示](https://github.com/ThornWu/blog/issues/4)
-- [V8 是怎么跑起来的（1） —— V8 的 JavaScript 执行管道](https://github.com/ThornWu/blog/issues/5)
+- [V8 是怎么跑起来的 —— V8 中的对象表示](https://github.com/ThornWu/blog/issues/4)
+- [V8 是怎么跑起来的 —— V8 的 JavaScript 执行管道](https://github.com/ThornWu/blog/issues/5)
 - [V8 是怎么跑起来的 - V8 的 JavaScript 执行管道 2021](https://github.com/ThornWu/blog/issues/6)
 
 ## 前端新知
